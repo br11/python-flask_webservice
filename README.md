@@ -1,5 +1,6 @@
 # python-flask_webservice
 Python Web Hello World
+https://python.land/deployment/containerize-your-project
 
 ### Build
 ```docker build -t python-flask_webservice:latest```
